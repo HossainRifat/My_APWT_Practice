@@ -61,4 +61,8 @@ class pageController extends Controller
         $this->productList[] =  $p1;
         return view("updated_product")->with("productList",$this->productList);
     }
+
+    function Registration(){
+        return view('registration');
+    }
 }

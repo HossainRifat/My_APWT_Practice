@@ -1,5 +1,5 @@
 <div class="shadow navbar navbar-expand-lg">
-        <ul class="navbar-nav mr-auto">
+        <ul class="navbar-nav mr-auto ">
                 <li class="nav-item">
                 <a href="{{route('home')}}" class="nav-link">Home</a>
                 </li>    
@@ -22,6 +22,9 @@
 
                 <li class="nav-item">
                 <a href="{{url('/team')}}" class="nav-link">Our Team</a>
+                </li>
+                <li class="nav-item">
+                <a href="{{url('/registration')}}" class="nav-link">Registration</a>
                 </li>
         </ul>
         

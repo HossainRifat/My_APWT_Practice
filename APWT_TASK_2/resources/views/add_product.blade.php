@@ -11,7 +11,7 @@
     <div>
     @section('content')
     <h2>Add Product</h2>
-    <form action="/showProduct" method="post" style="max-width: 500px">
+    <form action="/showProduct" method="post" class="col-4">
         {{csrf_field()}}
         Name: <input type="text" name="ProductName" class="form-control">
         Size: <input type="text" name="ProductSize" class="form-control">
