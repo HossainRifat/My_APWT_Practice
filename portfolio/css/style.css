@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root{
+  /*=======Main theme colors=======*/
+
+  /*=======Hover colors=======*/
+
+  /*=======Background colors=======*/
+
+  /*=======Color Filter=======*/
+
+  /*=======Box shadow=======*/
+
+  /*=======Font size=======*/
+
+  /*=======Scroll bar colors=======*/
+}
+
+/*=======Scroll to top button=======*/
+
+/*=======Light/Dark theme button=======*/
+
+/*=======Scroll bar=======*/
+
+/*=======Header=======*/
+
+/*=======Home section=======*/
+
+/*=======Common styles for all sections=======*/
+
+/*=======About section=======*/
+
+/*=======Skills section=======*/
+
+/*=======Services section=======*/
+
+/*=======Portfolio section=======*/
+
+/*=======Get-in-touct=======*/
+
+/*=======Our Clients=======*/
+
+/*=======Contact section=======*/
+
+/*=======Footer=======*/
+
+/*=======Media query max-width 1070px=======*/
+@media screen and (max-width: 1070px){
+  /*=======Header navigation menu=======*/
+
+  /*=======Home section=======*/
+
+  /*=======About section=======*/
+
+  /*=======Get-in-touct=======*/
+
+  /*=======Our clients=======*/
+
+  /*=======Contact section=======*/
+
+  /*=======Footer=======*/
+}
+
+/*=======Media query max-width 730px=======*/
+@media screen and (max-width: 730px){
+  /*=======Common styles for all sections=======*/
+
+  /*=======Home section=======*/
+
+  /*=======Get-in-touch section=======*/
+}
